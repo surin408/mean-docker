@@ -4,3 +4,5 @@ git init
 
 git add memo.txt
 git commit 
+
+git commit -a -m "abc"
