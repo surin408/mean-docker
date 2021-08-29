@@ -1,0 +1,6 @@
+
+
+git init
+
+git add memo.txt
+git commit 
