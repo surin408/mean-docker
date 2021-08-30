@@ -8,3 +8,9 @@ git add .
 git commit -m "abc"
 git commit -a -m "abc"
 
+
+
+
+git branch -M main
+git remote add origin https://github.com/surin408/mean-docker.git
+git push -u origin main
