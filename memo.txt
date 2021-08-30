@@ -2,7 +2,9 @@
 
 git init
 
+git state
 git add memo.txt
-git commit 
-
+git add .
+git commit -m "abc"
 git commit -a -m "abc"
+
