@@ -4,7 +4,6 @@ version: '2' # specify docker-compose version
 services:
   angular: # name of the first service
     build: angular-client # specify the directory of the Dockerfile
-    #image: angular-client
     ports:
       - "4200:4200" # specify port forewarding
     volumes:
@@ -12,7 +11,6 @@ services:
 
   express: #name of the second service
     build: express-server # specify the directory of the Dockerfile
-    #image: express-server
     ports:
       - "3000:3000" #specify ports forewarding
     links:

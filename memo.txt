@@ -1,3 +1,17 @@
+### memo.txt
+### 2021/09/05 :-
+
+# 2021/09/05 :-
+
+git branch -M main
+git remote remove origin
+
+git remote add origin https://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@github.com/surin408/mean-docker.git
+
+git push -u origin main
+git push --set-upstream origin master
+
+
 
 
 git init
