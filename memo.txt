@@ -1,6 +1,11 @@
 ### memo.txt
 ### 2021/09/05 :-
 
+# 2021/09/13 :-
+git remote remove origin
+git remote add origin https://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@github.com/surin408/mean-docker.git
+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
+
 # 2021/09/05 :-
 
 git branch -M main
